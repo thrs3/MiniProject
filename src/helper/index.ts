@@ -1,0 +1,7 @@
+interface CalculateProps {
+  
+} 
+
+const calculate = () => {
+
+}
